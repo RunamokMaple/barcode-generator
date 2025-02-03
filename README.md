@@ -3,12 +3,19 @@
 This is a barcode generator for GTIN-12 and ITF-14 barcodes. It takes in a spreadsheet as input, refer to "Master GS1 UPC GTIN", with the following column configuration.
 
 A : Category
+
 B : Sub Category
+
 C : Item
+
 D : Sales Code
+
 E : Each
+
 F : GTIN-12 (U.P.C.) (Each  Code)
+
 G : Case
+
 H : ITF-14 (Case Code)
 
 ## How to Run
